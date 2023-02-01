@@ -1,0 +1,306 @@
+
+
+
+
+.main{
+    left: 50px;
+    top: 50px;
+    position: relative;  
+    background-color: white;
+    width: 0;
+}
+
+.list{
+    list-style-type: none;
+    /* float: right; */
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    left: 75%;
+    position: relative;
+    
+}
+
+.li{
+    top: -5%;
+  font-family: raleway;
+  font-size: 14px;
+  font-weight: 500;
+  right: 10px;
+  
+  /* float: left; */
+  text-decoration:none;
+  position:relative;
+}
+
+.illustration1{
+    left: 750px;
+    top: -330px;
+    position: relative;
+    
+
+}
+
+.text{
+    top: 0px;
+    width: 25%;
+    height: 33px;
+    position: relative;
+}
+
+.button{
+    color: white;
+    width: 17%;
+    height: 40px;
+    border-radius: 5px;
+    background-color:  hsl(224, 89%, 75%);
+    border: none;
+}
+
+.checkmail{
+    margin-top: -2.5%;
+    font-size: 10px;
+    font-weight: 300;
+    color: rgb(214, 79, 101);
+}
+.text1{
+    top: 120px;
+    font-size: 30px;
+    left: 50px;
+    font-family: raleway;
+    position: relative;
+    
+}
+
+.text1a{
+    margin-top: -2%;
+    
+}
+
+.text1b{
+    top: -1%;
+    font-weight:500;
+    font-size: 14px;
+    position: relative;
+    
+}
+
+.curve{
+    bottom: 10px;
+width: 100%;
+height: 100px;
+position: relative;
+}
+
+.curve{
+    background-image: url(images/bg-curve-desktop.svg);
+    background-repeat: no-repeat;
+    width: 90%;
+    
+}
+
+.text2{
+    font-family: raleway;
+    margin-left: 50px;
+}
+
+.fylo{
+    font-weight: 500;
+    font-family: raleway;
+    left: 50px;
+    position: relative;
+
+}
+
+
+.fylolink{
+    margin-left: 50px;
+    text-decoration: none;
+    color: aqua;
+    font-family: raleway;
+}
+
+.quote{
+    top: 40px;
+    background-color:whitesmoke;
+    left: 50px;
+    width: 20%;
+    height: 20%;
+    position: relative;
+}
+
+.icon{
+    left: 30px;
+    top: 20px;
+    position: relative;
+    }
+
+.avatar{
+    width: 40px;
+    border-radius: 50px;
+    top: 10px;
+    position: relative;
+}
+
+.kyle{
+    left: 50px;
+    bottom: 40px;
+    position: relative;
+}
+
+.text3{
+    margin-left: 30px;
+}
+
+.illustration2{
+    width: 530px;
+    left: 720px;
+    bottom: 410px;
+    position: relative;
+    
+}
+
+.footage1{
+    background-color: hsl(240, 21%, 46%);
+    width: 90%;
+    height: 112%;
+    position: relative;
+    bottom: 300px;
+    
+}
+
+.footage2{
+    background-color: rgb(4, 4, 63);
+    width: 90%;
+    height: 140%;
+    position: relative;
+    bottom: 300px;
+}
+
+.footagetext1{
+    color: white;
+    left: 40px;
+    top: 95px;
+    font-family: raleway;
+    font-size: 15px;
+    font-weight: 300;
+    position: relative;
+    
+    
+}
+
+.footagetextbox{
+    bottom: 110px;
+    left: 830px;
+    width: 25%;
+    height: 32px;
+    position:relative;
+}
+
+.email{
+    bottom: 130px;
+    margin-left: 850px;
+    color:white;
+    font-weight: 100;
+    position: relative;
+
+}
+
+.button2{
+    width: 17%;
+    height: 40px;
+    border-radius: 3px;
+    background-color:  hsl(224, 89%, 75%);
+    position: relative;
+    left: 61.3%;
+    bottom: 150px;
+    border: none;
+    
+}
+
+.logo2{
+    width: 110px;
+    top: 70px;
+    left: 60px;
+    position: relative;
+    filter: brightness(0) invert()
+}
+
+.phone{
+    top: 117px;
+    position: relative;
+    width: 16px;
+    right: 30px;
+}
+
+.gmail{
+    top: 150px;
+    position: relative;
+    width: 16px;
+    right: 50px;
+}
+
+.phone-txt{
+    left: 115px;
+    color: white;
+    top: 85px;
+    position: relative;
+    font-family: raleway;
+    font-weight: 300;
+    font-size: 14px;
+    
+}
+
+
+.gmail-txt{
+    left: 115px;
+    color: white;
+    top: 90px;
+    position: relative;
+    font-family: raleway;
+    font-weight: 300;
+    font-size: 14px;
+
+}
+
+.footage-link1{
+    position: relative;
+    left: 50%;
+    top: 5px;
+    
+}
+
+.links{
+    color: white;
+    top: 10px;
+    position: relative;
+    text-decoration: none;
+    font-family: raleway;
+    font-size: 14px;
+}
+
+.footage-link2{
+    position: relative;
+    left: 900px;
+    bottom: 130px;
+}
+
+.icons{
+    width: 30px;
+    filter: brightness(0) invert(1);
+    position: relative;
+    left: 80%;
+    bottom: 220px;
+    
+
+}
+
+.tweet{
+    left: 20px;
+    position: relative;
+}
+
+.ig{
+    left: 40px;
+    position: relative;
+}
