@@ -120,7 +120,7 @@ position: relative;
 .fylo{
     font-weight: 500;
     font-family: raleway;
-    bottom: 81px;
+    bottom: 85px;
     left: 50px;
     position: relative;
 
@@ -128,18 +128,29 @@ position: relative;
 
 
 .fylolink{
-    margin-left: 50px;
+    bottom: 80px;
+    position: relative;
+    left: 50px;
     text-decoration: none;
     color: aqua;
     font-family: raleway;
+    font-weight: 600;
+}
+
+.arrow{
+    bottom: 77px;
+    left: 50px;
+    position: relative;
 }
 
 .quote{
-    top: 40px;
-    background-color:whitesmoke;
+    bottom: 35px;
+    border-radius: 5px;
+    background-color:white;
+    box-shadow: -0px -0px 40px 10px rgba(0,0,0,0.3);
     left: 50px;
-    width: 20%;
-    height: 20%;
+    width: 23%;
+    height: 212px;
     position: relative;
 }
 
@@ -152,24 +163,35 @@ position: relative;
 .avatar{
     width: 40px;
     border-radius: 50px;
-    top: 10px;
+    top: 8px;
     position: relative;
 }
 
 .kyle{
     left: 50px;
-    bottom: 40px;
+    font-weight: bolder;
+    bottom: 47px;
+    position: relative;
+}
+.ceo{
+    bottom: 62px;
+    left: 50px;
+    font-size: 12px;
     position: relative;
 }
 
 .text3{
-    margin-left: 30px;
+    left: 30px;
+    position: relative;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
 }
 
 .illustration2{
-    width: 530px;
-    left: 720px;
-    bottom: 410px;
+    width: 570px;
+    left: 800px;
+    bottom: 520px;
     position: relative;
     
 }
@@ -177,9 +199,9 @@ position: relative;
 .footage1{
     background-color: hsl(240, 21%, 46%);
     width: 90%;
-    height: 112%;
+    height: 320px;
     position: relative;
-    bottom: 300px;
+    bottom: 457px;
     
 }
 
@@ -188,15 +210,15 @@ position: relative;
     width: 90%;
     height: 140%;
     position: relative;
-    bottom: 300px;
+    bottom: 457px;
 }
 
 .footagetext1{
     color: white;
     left: 40px;
-    top: 95px;
+    top: 103px;
     font-family: raleway;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 300;
     position: relative;
     
@@ -204,83 +226,90 @@ position: relative;
 }
 
 .footagetextbox{
-    bottom: 110px;
+    bottom: 140px;
     left: 830px;
     width: 25%;
-    height: 32px;
+    height: 40px;
     position:relative;
 }
 
 .email{
-    bottom: 130px;
-    margin-left: 850px;
+    bottom: 155px;
+    left: 830px;
     color:white;
-    font-weight: 100;
+    font-weight: 300;
+    font-size: 13px;
     position: relative;
 
 }
 
 .button2{
-    width: 17%;
-    height: 40px;
+    color: white;
+    font-size: 13px;
+    font-weight:bold;
+    width: 16%;
+    height: 50px;
     border-radius: 3px;
-    background-color:  hsl(224, 89%, 75%);
+    background-color:  hsl(224, 69%, 68%);
     position: relative;
     left: 61.3%;
-    bottom: 150px;
+    bottom: 190px;
     border: none;
+    box-shadow: -0px -0px  10px rgba(0,0,0,0.3);
     
 }
 
 .logo2{
-    width: 110px;
-    top: 70px;
+    width: 130px;
+    top: 100px;
     left: 60px;
     position: relative;
     filter: brightness(0) invert()
 }
 
 .phone{
-    top: 117px;
+    top: 150px;
     position: relative;
-    width: 16px;
-    right: 30px;
+    width: 20px;
+    right: 70px;
 }
 
 .gmail{
-    top: 150px;
+    top: 190px;
     position: relative;
-    width: 16px;
-    right: 50px;
+    width: 20px;
+    right: 90px;
+    
 }
 
 .phone-txt{
-    left: 115px;
+    left: 100px;
     color: white;
-    top: 85px;
+    top: 115px;
     position: relative;
     font-family: raleway;
-    font-weight: 300;
-    font-size: 14px;
+    font-weight: 500;
+    font-size: 16px;
     
 }
 
 
 .gmail-txt{
-    left: 115px;
+    left: 100px;
     color: white;
-    top: 90px;
+    top: 120px;
     position: relative;
     font-family: raleway;
-    font-weight: 300;
-    font-size: 14px;
+    font-weight: 500;
+    font-size: 16px;
 
 }
 
 .footage-link1{
     position: relative;
-    left: 50%;
-    top: 5px;
+    left: 39%;
+    top: 50px;
+    
     
 }
 
@@ -295,16 +324,16 @@ position: relative;
 
 .footage-link2{
     position: relative;
-    left: 900px;
-    bottom: 130px;
+    left: 800px;
+    bottom: 80px;
 }
 
 .icons{
     width: 30px;
     filter: brightness(0) invert(1);
     position: relative;
-    left: 80%;
-    bottom: 220px;
+    left: 78%;
+    bottom: 180px;
     
 
 }
