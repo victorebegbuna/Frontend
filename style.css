@@ -13,7 +13,6 @@
 .list{
     
     list-style-type: none;
-    /* float: right; */
     margin: 0px;
     padding: 0px;
     overflow: hidden;
@@ -29,8 +28,6 @@
   font-size: 14px;
   font-weight: 500;
   right: 10px;
-  
-  /* float: left; */
   text-decoration:none;
   position:relative;
 }
